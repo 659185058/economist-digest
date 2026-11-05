@@ -349,3 +349,4 @@ GitHub Actions 的 cron 在高峰期可能延迟 10–30 分钟；
 
 **上游仓库结构变了？**
 检查 `UPSTREAM_PATH` 与 `fetch_upstream.py` 中的 `DIR_RE` 是否还匹配。
+
